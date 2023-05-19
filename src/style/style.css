@@ -36,6 +36,10 @@ body{
     font-size: 18px;
 }
 
+.cabecalho-menu-item:hover{
+    color: #CC889D;
+}
+
 .conteudo{
     margin-bottom: 48px;
     border-top: 0.4px solid #C7B299;
